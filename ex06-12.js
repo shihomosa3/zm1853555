@@ -8,11 +8,11 @@ function imgchange12() {
 }
 
 
-//      <input type="button" value="画像の変更" onclick="imgchange1();">
-//  <img src='./image/josai.png' id="logo" alt="Josai Logo">
+//<input type="button" value="画像の変更" onclick="imgchange1();">
+//<img src='./image/josai.png' id="logo" alt="Josai Logo">
 
-// * ex06-9.js
+ //* ex06-9.js
 // function imgchange1() {
-//  document.getElementById('logo').src = './image/bulbon.gif';
+ // document.getElementById('logo').src = './image/bulbon.gif';
 
 
