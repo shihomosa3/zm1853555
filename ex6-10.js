@@ -1,8 +1,7 @@
 function imgchange1() {
-document.getElementById('logo1').src =
-'./image/bulbon.gif';
+document.getElementById('logo').src ='./image/bulbon.gif';
 }
+
 function imgchange2() {
-document.getElementById('logo1').src =
-'./image/keiei_small.jpg';
+document.getElementById('logo').src ='./image/josai.png';
 }
